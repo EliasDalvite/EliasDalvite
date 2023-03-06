@@ -1,5 +1,10 @@
-#### Change languages: [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/EliasDalvite/EliasDalvite/blob/main/README.en.md)
-## Olá! Me chamo Elias e bem vindo ao meu perfil 😁
+<h5 align="right"> 
+Change language:
+<a href="https://github.com/EliasDalvite/EliasDalvite/blob/main/README.en.md">
+<img align="rigth" src="https://img.shields.io/badge/lang-en-red.svg">
+</a>
+</h5>
+## Olá! Me chamo Elias e seja bem vindo ao meu perfil 😁
 
 ### - Linguagens
 
