@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/eliasdalvite/README.en.md)
 
-## Olá! Me chamo Elias e bem vindo ao meu perfil 😁:
+## Olá! Me chamo Elias e bem vindo ao meu perfil 😁
 
 ### - Linguagens
 
