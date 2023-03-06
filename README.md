@@ -21,7 +21,7 @@ Change language:
 
 ![Visualizações no Profile](https://komarev.com/ghpvc/?username=eliasdalvite&theme=)
 
-Under construction!! 👷 🏗️ 👷
+Em construção!! 👷 🏗️ 👷
 
 <!--- Funcional!!  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdalvite) -->
 <!--- badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
