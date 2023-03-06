@@ -1,6 +1,6 @@
 <h5 align="right"> 
 Change language:
-<a href="https://github.com/EliasDalvite/EliasDalvite/blob/main/README.md">
+<a href="https://github.com/EliasDalvite/EliasDalvite">
 <img align="rigth" src="https://img.shields.io/badge/lang-pt--br-green.svg">
 </a>
 </h5>
