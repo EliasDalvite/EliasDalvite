@@ -1,4 +1,4 @@
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/EliasDalvite/EliasDalvite/blob/main/README.en.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/EliasDalvite/EliasDalvite/blob/main/README.md)
 ## Hello! My name is Elias and welcome to my profile 😁
 
 ### - Languages
