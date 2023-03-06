@@ -1,4 +1,10 @@
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/EliasDalvite/EliasDalvite/blob/main/README.md)
+<h5 align="right"> 
+Change language:
+<a href="https://github.com/EliasDalvite/EliasDalvite/blob/main/README.md">
+<img align="rigth" src="https://img.shields.io/badge/lang-pt--br-green.svg">
+</a>
+</h5>
+
 ## Hello! My name is Elias and welcome to my profile 😁
 
 ### - Languages
