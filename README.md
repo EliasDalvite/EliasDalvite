@@ -8,7 +8,7 @@ Change language:
 # Olá! Me chamo Elias e seja bem vindo ao meu perfil do GitHub 😁
 
 ## Sobre mim
-Nasci e cresci em uma cidade com menos de três mil habitante no interior do Rio Grande do Sul.
+Nasci e cresci em uma cidade no interior do estado do Rio Grande do Sul.
 Atualmente moro em Passo Fundo, onde estudo e realizo um estágio de trinta horas semanais. 
 
 ### - Linguagens
