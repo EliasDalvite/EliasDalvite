@@ -28,7 +28,7 @@ Along this journey, I dealt a lot with Java and C++, but more than eight months 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-dalvite-75974b249/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias_dalvite/)
 <!--- [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/EliasDalvite/) -->
 
-![Visualizações no Profile](https://komarev.com/ghpvc/?username=eliasdalvite&theme=)
+<!--- ![Visualizações no Profile](https://komarev.com/ghpvc/?username=eliasdalvite&theme=) -->
 
 <!--- Funcional!!  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdalvite) -->
 <!--- badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
