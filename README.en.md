@@ -1,5 +1,5 @@
 <h5 align="right"> 
-Change language:
+Alterar idioma:
 <a href="https://github.com/EliasDalvite">
 <img align="rigth" src="https://img.shields.io/badge/lang-pt--br-green.svg">
 </a>
