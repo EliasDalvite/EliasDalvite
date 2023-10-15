@@ -9,7 +9,7 @@ Alterar idioma:
 
 ## About me
 I was born and raised in a tiny city in the interior of the state of Rio Grande do Sul-Brazil. 
-I currently live in Passo Fundo, where I study and do an internship of thirty hours a week.
+I currently live in Passo Fundo, where I study and work as a junior mobile developer.
 
 ### - Languages
 #### Intermediate 🤠
