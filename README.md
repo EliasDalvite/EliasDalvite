@@ -9,7 +9,7 @@ Change language:
 
 ## Sobre mim
 Nasci e cresci em uma cidade no interior do estado do Rio Grande do Sul.
-Atualmente moro em Passo Fundo, onde estudo e realizo um estágio de trinta horas semanais. 
+Atualmente moro em Passo Fundo, onde estudo e trabalho como desenvolvedor júnior mobile. 
 
 ### - Linguagens
 #### Intermediário 🤠
