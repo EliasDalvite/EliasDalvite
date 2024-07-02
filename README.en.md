@@ -19,7 +19,7 @@ I currently live in Passo Fundo, where I study and work as a junior mobile devel
 
 ## Studies 📖
 Currently I am attending on the seventh out of eight semesters in the Computer Sciente course at Federal Institute of Education, Science and Technology (IFSUL) - Passo Fundo.
-Along this journey, I dealt a lot with Java and C++, but more than eight months ago I started working with Kotlin and Flutter and I'm loving it!
+Along this journey, I dealt a lot with Java and C++ and by now (june 2024) I have more than 2 years working with Flutter and I'm loving it!
 
 ### - IDEs ⚙️
 [![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
