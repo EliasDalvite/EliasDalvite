@@ -20,8 +20,7 @@ Atualmente moro em Passo Fundo, onde estudo e trabalho como desenvolvedor mobile
 ## Estudos 📖
 Atualmente estou cursando o sétimo de oito semestres no curso de Ciência da Computação no 
 Instituto Federal de Educação, Ciência e Tecnologia.
-Nesse caminho trabalhei muito com Java e C++, porém há mais de oito meses comecei a trabalhar 
-com Kotlin e Flutter e estou adorando! 
+Nesse caminho trabalhei muito com Java e C++ e até agora (junho 2024) já fazem 2 anos que trabalho com Flutter e estou adorando! 
 
 ## - IDEs ⚙️
 [![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
