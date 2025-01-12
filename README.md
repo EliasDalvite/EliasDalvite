@@ -9,18 +9,18 @@ Change language:
 
 ## Sobre mim
 Nasci e cresci em uma cidade no interior do estado do Rio Grande do Sul.
-Atualmente moro em Passo Fundo, onde estudo e trabalho como desenvolvedor mobile junior. 
+Atualmente moro em Passo Fundo, onde estudo e trabalho como desenvolvedor mobile. 
+
+## Estudos 📖
+Formado no curso de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia.
+Após me formar estou direcionando meu foco exclusivamente a desenvolvimento mobile. Atualmente me especializando em Flutter! 
 
 ### - Linguagens
 #### Intermediário 🤠
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 #### Iniciante 🙂
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS3) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS3) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript) [![Python Badge]([https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))](https://www.python.org/)
 
-## Estudos 📖
-Atualmente estou cursando o sétimo de oito semestres no curso de Ciência da Computação no 
-Instituto Federal de Educação, Ciência e Tecnologia.
-Nesse caminho trabalhei muito com Java e C++ e até agora (junho 2024) já fazem 2 anos que trabalho com Flutter e estou adorando! 
 
 ## - IDEs ⚙️
 [![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) [![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
