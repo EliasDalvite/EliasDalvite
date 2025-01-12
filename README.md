@@ -19,7 +19,7 @@ Após me formar estou direcionando meu foco exclusivamente a desenvolvimento mob
 #### Intermediário 🤠
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 #### Iniciante 🙂
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS3) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript) [![Python Badge]([https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))](https://www.python.org/)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS3) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 
 ## - IDEs ⚙️
