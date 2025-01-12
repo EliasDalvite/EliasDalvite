@@ -12,8 +12,10 @@ Nasci e cresci em uma cidade no interior do estado do Rio Grande do Sul.
 Atualmente moro em Passo Fundo, onde estudo e trabalho como desenvolvedor mobile. 
 
 ## Estudos 📖
-Formado no curso de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia.
-Após me formar estou direcionando meu foco exclusivamente a desenvolvimento mobile. Atualmente me especializando em Flutter! 
+Bacharelado em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia (IFSUL) em Passo Fundo. 
+Após a graduação, estou focado exclusivamente no desenvolvimento mobile, atuando em tempo integral como desenvolvedor mobile. 
+Atualmente, estou me especializando em Flutter e tenho experiência no design, desenvolvimento e manutenção de aplicativos móveis multiplataforma. 
+Com 2,5 anos de experiência até 12 de janeiro de 2025.
 
 ### - Linguagens
 #### Avançado 😎
